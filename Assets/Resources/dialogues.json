@@ -1,0 +1,19 @@
+{
+  "dialogues": [
+    {
+      "id": "i1",
+      "dialogues": [
+        {
+          "chara": "m",
+          "dialogues": [
+            "Nope no monsters, just plants!"
+          ],
+          "emotions": [
+            "tightlip"
+          ],
+          "auto": false
+        }
+      ]
+    }
+  ]
+}
